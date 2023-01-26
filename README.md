@@ -30,5 +30,6 @@ with open("word.txt",'r') as t:
 ```
 ### OUTPUT:
 ![output!](output.png)
+![output!](text.png)
 ## RESULT:
 Thus the program is written to find the word count from a text.
